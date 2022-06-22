@@ -7,8 +7,7 @@ Here you can find Voximplant demos for multiple platforms
 > How to use Voximplant SDKs to create audio calls with features, such as holding a call, muting microphone, sending tone signals etc.
 > 
 > [[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
-[[iOS SDK](https://github.com/voximplant/ios-sdk-swift-demo/blob/master/AudioCall)]
-[[iOS SDK with CallKit](https://github.com/voximplant/ios-sdk-swift-demo/blob/master/AudioCallKit)]
+[[iOS SDK](https://github.com/voximplant/ios-sdk-swift-demo)]
 [[Android SDK](https://github.com/voximplant/android-sdk-kotlin-demo/blob/master/audiocall)]
 [[React native](https://github.com/voximplant/react-native-demo/tree/master/CallApp)]
 [[Flutter](https://github.com/voximplant/flutter_demos/blob/master/audio_call)]
@@ -18,10 +17,8 @@ Here you can find Voximplant demos for multiple platforms
 > How to use Voximplant SDKs to create video calls with features, such as screen sharing, holding a call, muting microphone etc.
 > 
 > [[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
-[[iOS SDK](https://github.com/voximplant/ios-sdk-swift-demo/blob/master/VideoCall)]
-[[iOS SDK with CallKit](https://github.com/voximplant/ios-sdk-swift-demo/blob/master/VideoCallKit)]
+[[iOS SDK](https://github.com/voximplant/ios-sdk-swift-demo)]
 [[Android SDK](https://github.com/voximplant/android-sdk-kotlin-demo/blob/master/videocall)]
-[[Android SDK with DeepAR](https://github.com/voximplant/android-sdk-kotlin-demo/blob/master/videocall-deepar)]
 [[React native](https://github.com/voximplant/react-native-demo/tree/master/CallApp)]
 [[Flutter](https://github.com/voximplant/flutter_demos/tree/master/video_call)]
 
