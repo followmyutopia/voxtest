@@ -40,31 +40,8 @@ Here you can find Voximplant demos for multiple platforms
 > [[Web, iOS, Android](https://github.com/voximplant/solutions-messaging)]
 [[Chat moderation in Web SDK](https://github.com/voximplant/bot-api-chat-moderation-demo)]
 
-### Web SDK
-
-Demonstrates how to use the Voximplant Web SDK to create audio and video calls with call transfer, DTMF, and many other features. 
-
-- [Click-to-call](https://github.com/voximplant/click-to-call)
-
-Demonstrates how to use a click-to-call widget for your website that allows your customers to make a call over VoIP without leaving the website.
-
-- [Other](https://github.com/voximplant/websdk-demos)
-
-Demonstrates the full Web SDK demo list. Here you will find the information on how to automatically restore the current call, enable push notifications, and so on.
-
-
-
-
-## Messaging
-
-### Web + iOS + Android
-
-- [Messaging](https://github.com/voximplant/solutions-messaging)
-
-Demonstrates how to create your web and mobile messaging client based on the Voximplant SDKs.
-
-### Web SDK
-
-- [Chat moderation](https://github.com/voximplant/bot-api-chat-moderation-demo)
-
-Demonstrates how to create a moderated chat so people cannot use certain words via the Voximplant instant messaging SDK.
+> ### Click-to-call
+>
+> Demonstrates how to use the Voximplant Web SDK to create audio and video calls with call transfer, DTMF, and many other features. 
+>
+> [Web SDK](https://github.com/voximplant/click-to-call)
