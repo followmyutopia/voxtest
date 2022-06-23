@@ -1,45 +1,57 @@
-# Welcome to the Voximplant GitHub repository
+## Welcome to the Voximplant GitHub repository
 
-Here you can find Voximplant demos for multiple platforms
----
+Voximplant is an innovative platform to add voice or video calls, conferences, and instant messaging to your Web or Mobile application.
+
+- Visit [our website](https://voximplant.com/) to learn about our products
+- Read [our documentation](https://voximplant.com/docs/gettingstarted) to learn how to implement our features
+
+### Download our demos for multiple platforms
+
+Choose the functionality you need, then choose the platform to download the demo.
+
 > ### Audio calls
 > 
-> How to use Voximplant SDKs to create audio calls with features, such as holding a call, muting microphone, sending tone signals etc.
+> Implement a audio calls application with multiple features, such as holding a call, muting microphone, sending tone signals etc.
 > 
-> [[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
+> [[Documentation](https://voximplant.com/docs/guides/calls/audio)]
+[[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
 [[iOS SDK](https://github.com/voximplant/ios-sdk-swift-demo)]
 [[Android SDK](https://github.com/voximplant/android-sdk-kotlin-demo/blob/master/audiocall)]
 [[React native](https://github.com/voximplant/react-native-demo/tree/master/CallApp)]
 [[Flutter](https://github.com/voximplant/flutter_demos/blob/master/audio_call)]
----
+
 > ### Video calls
 >
-> How to use Voximplant SDKs to create video calls with features, such as screen sharing, holding a call, muting microphone etc.
+> Implement a video calls application with multiple features, such as screen sharing, holding a call, muting microphone etc.
 > 
-> [[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
+> [[Documentation](https://voximplant.com/docs/guides/calls/video)]
+[[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
 [[iOS SDK](https://github.com/voximplant/ios-sdk-swift-demo)]
 [[Android SDK](https://github.com/voximplant/android-sdk-kotlin-demo/blob/master/videocall)]
 [[React native](https://github.com/voximplant/react-native-demo/tree/master/CallApp)]
 [[Flutter](https://github.com/voximplant/flutter_demos/tree/master/video_call)]
----
+
 > ### Conferences
 >
 > How to use Voximplant SDKs to create conferences with features, such as toggling video sending, muting microphone, screen sharing etc.
 >
-> [[Videoconf solution for Web, iOS, Android](https://github.com/voximplant/solutions-videoconference)]
+> [[Documentation](https://voximplant.com/docs/guides/conferences/howto)]
+[[Videoconf solution for Web, iOS, Android](https://github.com/voximplant/solutions-videoconference)]
 [[Web SDK](https://github.com/voximplant/basic-websdk-demo)]
 [[React native](https://github.com/voximplant/react-native-demo/tree/master/ConferenceDemo)]
----
+
 > ### Instant messaging
 >
 > How to use Voximplant SDKs to create instant messaging client
 >
-> [[Web, iOS, Android](https://github.com/voximplant/solutions-messaging)]
+> [[Documentation](https://voximplant.com/docs/guides/im)]
+[[Web, iOS, Android](https://github.com/voximplant/solutions-messaging)]
 [[Chat moderation in Web SDK](https://github.com/voximplant/bot-api-chat-moderation-demo)]
----
+
 > ### Click-to-call
 >
 > Demonstrates how to use the Voximplant Web SDK to create audio and video calls with call transfer, DTMF, and many other features. 
 >
-> [Web SDK](https://github.com/voximplant/click-to-call)
----
+> [[Documentation](https://voximplant.com/docs/guides/solutions/clicktocall)]
+[[Web SDK](https://github.com/voximplant/click-to-call)]
+
