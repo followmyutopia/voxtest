@@ -1,13 +1,13 @@
 ![](github.png)
 
-## Welcome to the Voximplant GitHub repository
+## A cloud communication platform for everyone
 
-Voximplant is an innovative platform to add voice or video calls, conferences, and instant messaging to your Web or Mobile application.
+Voximplant enables developers & businesses to implement voice, video and messaging communications as well as NLP into their apps and services through its cloud platform.
 
 - Visit [our website](https://voximplant.com/) to learn about our products
 - Read [our documentation](https://voximplant.com/docs/gettingstarted) to learn how to implement our features
 
-### Download our demos for multiple platforms
+### Our demos for multiple platforms
 
 Choose the functionality you need, then choose the platform to download the demo.
 
