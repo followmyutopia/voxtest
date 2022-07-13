@@ -1,3 +1,5 @@
+![](github.png)
+
 ## Welcome to the Voximplant GitHub repository
 
 Voximplant is an innovative platform to add voice or video calls, conferences, and instant messaging to your Web or Mobile application.
